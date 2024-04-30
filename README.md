@@ -7,5 +7,5 @@ Il programma deve rispettare le seguenti caratteristiche:
 - Una richiesta GET all'endpoint "/sum" ritorna la somma dei numeri in lista
 - Una richiesta GET all'endpoint "/sub" ritorna la sottrazione di tutti i numeri in lista
 - Una richiesta GET all'endpoint "/prod" ritorna il prodotto di tutti i numeri in lista
-- Una richiesta GET all'endpoint "/prod" ritorna il quoziente di tutti i numeri in lista come double
+- Una richiesta GET all'endpoint "/div" ritorna il quoziente di tutti i numeri in lista come double
   
